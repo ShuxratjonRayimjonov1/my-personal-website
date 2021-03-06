@@ -5,26 +5,26 @@
     <title>myfile</title>
     <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300&family=Montserrat:ital,wght@1,300&family=Sacramento&display=swap" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="D:\downloads\Новая папка (2)\web\html\myfile\myfile.css">
-  <link rel="favicon icon" href="D:\downloads\Новая папка (2)\web\html\favicon.ico">
+    <link rel="stylesheet" type="text/css" href="myfile.css">
+  <link rel="favicon icon" href="favicon.ico">
   </head>
   <body>
 <div class="high_container">
-  <img class="top-cloud" src="D:\downloads\Новая папка (2)\web\html\CSS - My Site Images\CSS - My Site Images\cloud.png" alt="cloud">
+  <img class="top-cloud" src="cloud.png" alt="cloud">
 
 
 
   <h1>I`m Shuxratjon.</h1>
   <h2>a <span class="pro">pro</span>grammer</h2>
 
-  <img class="bottom-cloud" src="D:\downloads\Новая папка (2)\web\html\CSS - My Site Images\CSS - My Site Images\cloud.png" alt="cloud">
-  <img src="D:\downloads\Новая папка (2)\web\html\CSS - My Site Images\CSS - My Site Images\mountain.png" alt="mountain">
+  <img class="bottom-cloud" src="cloud.png" alt="cloud">
+  <img src="mountain.png" alt="mountain">
 
 </div>
 
 <div class="middle-container">
   <div class="profile">
-    <img class="myprofileicture" src="D:\downloads\Новая папка (2)\web\html\shuxrat.png" alt="shuxratjon Rayimjonov">
+    <img class="shuxrat.png" alt="shuxratjon Rayimjonov">
     <h2 id="heading">Hello.</h2>
     <p>I`m Shuxratjon </p>
   </div>
@@ -32,12 +32,12 @@
   <div class="skills">
     <h2>My Skills.</h2>
     <div class="skill-row">
-      <img class="skillimage1" src="D:\downloads\Новая папка (2)\web\html\myfile\circle-cropped (1).png" alt="webdelopmentskill">
+      <img class="circle-cropped (1).png" alt="webdelopmentskill">
       <h3>web developer</h3>
       <p class="skilldescription1">I can create pretty beautiful, responsive, user-friendly web pages and web applications.</p>
     </div>
     <div class="skill-row">
-      <img class="skillimage" src="D:\downloads\Новая папка (2)\web\html\myfile\circle-cropped (2).png" alt="javascriptdeveloper">
+      <img class="skillimage" src="circle-cropped (2).png" alt="javascriptdeveloper">
       <h3>javascript developer</h3>
       <p "skilldescription2">I have a big experience and problem solving skills in javascript.</p>
     </div>
